@@ -1,6 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 require 'pry'
 def loop_iterator(number_of_times)
+  binding pry
   loop do 
     number_of_times +=1
     if number_of_times >= 7
