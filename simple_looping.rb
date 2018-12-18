@@ -1,7 +1,9 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-  
+  loop do 
+    if number_of_times >
+    "Welcome to Flatiron School's Web Development Course!
 end
 
 # def times_iterator(number_of_times)
