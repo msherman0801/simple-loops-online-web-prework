@@ -5,8 +5,8 @@ def loop_iterator(number_of_times)
       if number_of_times >= 7
         break
       else
-      number_of_times += 1
-      puts "Welcome to Flatiron School's Web Development Course!"
+        number_of_times += 1
+        puts "Welcome to Flatiron School's Web Development Course!"
       end
   end
 end
