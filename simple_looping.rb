@@ -3,6 +3,7 @@
 def loop_iterator(number_of_times)
   loop do
     until number_of_times >= 7
+    number_of_times += 1
     puts "Welcome to Flatiron School's Web Development Course!"
   end
 #   loop do 
